@@ -67,5 +67,5 @@ The repository includes the following key components:
 
 ## Notes
 
-This project is intended for academic and practical demonstration purposes. It can be extended with features like mobile application support, dynamic pricing, loyalty programs, and integration with third-party payment systems.
+This project is intended for practical demonstration purposes. It can be extended with features like mobile application support, dynamic pricing, loyalty programs, and integration with third-party payment systems.
 
