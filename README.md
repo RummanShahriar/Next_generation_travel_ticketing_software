@@ -1,5 +1,3 @@
-*Next_generation_ticketing_system*
-
 # Next Generation Travel Ticketing Software
 
 This repository contains the **Next Generation Travel Ticketing System**, a bus ticketing software designed to improve the user experience of purchasing travel tickets. The system focuses on providing a fast, intuitive, and reliable platform for users to browse schedules, select seats, and complete bookings efficiently.
